@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/SST-Bold.ttf",
+      "sha1": "9ec2f8b9ae685e6b7e6a54dd929f287682d15cef"
+    },
+    {
+      "path": "src/assets/fonts/SST-Heavy.ttf",
+      "sha1": "5c06ee1f707645a4ee6fca0a92ff886a7c184666"
+    },
+    {
+      "path": "src/assets/fonts/SST-Light.ttf",
+      "sha1": "b889a31c177d5531a2f5e19a6b914e5434648550"
+    },
+    {
+      "path": "src/assets/fonts/SST-Medium.ttf",
+      "sha1": "0d06c386c5a80e3b6603f7c6a3a027dcc244b401"
+    }
+  ]
+}

@@ -8,12 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* ps_appTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ps_appTests.m */; };
+		0529C713C3B0427B92BFD85F /* SST-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 75B5A1E5BE6F459B98A5E458 /* SST-Bold.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-ps_app.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-ps_app.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		357D53E9D952427CBE4E559A /* SST-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA42F98C759C4F3D92F5917F /* SST-Light.ttf */; };
+		7413906D09564AFBA1637AE5 /* SST-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6564117B80224883BF4C285E /* SST-Medium.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-ps_app-ps_appTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-ps_app-ps_appTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		B88375A43DC24DB084759BCF /* SST-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 587C8F043D374B1CB81F3025 /* SST-Heavy.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,10 +43,14 @@
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-ps_app-ps_appTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ps_app-ps_appTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-ps_app.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ps_app.debug.xcconfig"; path = "Target Support Files/Pods-ps_app/Pods-ps_app.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-ps_app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ps_app.release.xcconfig"; path = "Target Support Files/Pods-ps_app/Pods-ps_app.release.xcconfig"; sourceTree = "<group>"; };
+		587C8F043D374B1CB81F3025 /* SST-Heavy.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SST-Heavy.ttf"; path = "../src/assets/fonts/SST-Heavy.ttf"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-ps_app-ps_appTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ps_app-ps_appTests.debug.xcconfig"; path = "Target Support Files/Pods-ps_app-ps_appTests/Pods-ps_app-ps_appTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-ps_app.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ps_app.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6564117B80224883BF4C285E /* SST-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SST-Medium.ttf"; path = "../src/assets/fonts/SST-Medium.ttf"; sourceTree = "<group>"; };
+		75B5A1E5BE6F459B98A5E458 /* SST-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SST-Bold.ttf"; path = "../src/assets/fonts/SST-Bold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ps_app/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-ps_app-ps_appTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ps_app-ps_appTests.release.xcconfig"; path = "Target Support Files/Pods-ps_app-ps_appTests/Pods-ps_app-ps_appTests.release.xcconfig"; sourceTree = "<group>"; };
+		DA42F98C759C4F3D92F5917F /* SST-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SST-Light.ttf"; path = "../src/assets/fonts/SST-Light.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -106,6 +114,18 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		7431AFA75397456F9D227381 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				75B5A1E5BE6F459B98A5E458 /* SST-Bold.ttf */,
+				587C8F043D374B1CB81F3025 /* SST-Heavy.ttf */,
+				DA42F98C759C4F3D92F5917F /* SST-Light.ttf */,
+				6564117B80224883BF4C285E /* SST-Medium.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +142,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				7431AFA75397456F9D227381 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -244,6 +265,10 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				0529C713C3B0427B92BFD85F /* SST-Bold.ttf in Resources */,
+				B88375A43DC24DB084759BCF /* SST-Heavy.ttf in Resources */,
+				357D53E9D952427CBE4E559A /* SST-Light.ttf in Resources */,
+				7413906D09564AFBA1637AE5 /* SST-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
